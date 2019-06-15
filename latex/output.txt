@@ -1,0 +1,2030 @@
+\newpage
+\subsubsection{Fire 3}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+3 & 25 & 7451801 & 795352
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 1097 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 1097 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 8}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+8 & 2 & 7419231 & 681153
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 102 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 102 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 10}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+10 & 0 & 7408632 & 701085
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 11}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+11 & 10 & 7385089 & 761983
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 626 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 626 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 13}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+13 & 1 & 7346198 & 825294
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 14}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+14 & 1 & 7332414 & 720730
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 19}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+19 & 6 & 7171921 & 641184
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 1759 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 1759 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 32}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+32 & 4 & 7084965 & 762977
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 997 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 997 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 43}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+43 & 6 & 7026754 & 621833
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 146 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 146 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 50}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+50 & 5 & 6898978 & 533699
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 259 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 259 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 53}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+53 & 116 & 7393317 & 769529
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 1129 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 1129 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 61}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+61 & 423 & 6972196 & 523718
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 630 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 630 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 62}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+62 & 5 & 7018649 & 425001
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 345 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 345 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 66}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+66 & 945 & 6864555 & 445328
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 182 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 182 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 92}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+92 & 3921 & 6853211 & 470122
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 562 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 562 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 93}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+93 & 3468 & 6831719 & 423684
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 505 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 505 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 95}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+95 & 48 & 6832388 & 484205
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 182 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 182 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 107}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+107 & 53 & 7104782 & 661997
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 107 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 107 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 114}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+114 & 0 & 6338503 & 565601
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 124}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+124 & 91 & 7306517 & 682043
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 2079 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 2079 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 125}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+125 & 45 & 7090541 & 649406
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 479 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 479 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 130}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+130 & 28 & 6369859 & 571743
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 110 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 110 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 131}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+131 & 146 & 7474821 & 739560
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 993 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 993 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 133}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+133 & 99 & 7019008 & 590498
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 243 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 243 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 134}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+134 & 468 & 7053895 & 640674
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 218 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 218 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 135}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+135 & 113 & 6960184 & 646648
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 131 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 131 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 138}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+138 & 353 & 7391294 & 730743
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 113 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 113 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 140}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+140 & 25 & 7416040 & 836868
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 112 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 112 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 141}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+141 & 16 & 6588054 & 503222
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 148 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 148 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 149}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+149 & 43 & 7079091 & 716996
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 80 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 80 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 153}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+153 & 36 & 6847676 & 490812
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 379 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 379 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 161}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+161 & 22 & 6846021 & 479325
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 224 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 224 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 171}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+171 & 5 & 6801775 & 389005
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 352 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 352 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 177}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+177 & 2 & 6671106 & 661210
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 190}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+190 & 13 & 6609853 & 452814
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 911 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 911 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 196}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+196 & 5 & 6659414 & 656765
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 215 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 215 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 215}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+215 & 14 & 6608082 & 401067
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 0 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 0 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 229}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+229 & 4 & 6559358 & 656600
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 348 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 348 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 230}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+230 & 2 & 6557665 & 669062
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 235}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+235 & 6 & 6536530 & 536278
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 347 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 347 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 237}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+237 & 3 & 6508479 & 554872
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 0 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 0 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 249}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+249 & 1 & 6459664 & 594871
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 125 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 125 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 255}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+255 & 1 & 6401251 & 577494
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 204 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 204 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 256}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+256 & 1 & 6407490 & 520859
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 82 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 82 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 257}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+257 & 3 & 6401943 & 362759
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 0 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 0 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 265}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+265 & 1 & 6334734 & 577586
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 0 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 0 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 268}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+268 & 1 & 6274409 & 541031
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 276}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+276 & 2 & 6647637 & 556832
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 279}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+279 & 0 & 6361872 & 594103
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 283}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+283 & 4 & 6783287 & 510459
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 210 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 210 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 293}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+293 & 1 & 6365403 & 540336
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 377 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 377 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 297}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+297 & 3 & 7032310 & 687603
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 222 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 222 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 303}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+303 & 2 & 6613227 & 372012
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 39 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 39 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 307}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+307 & 0 & 6400533 & 575099
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 317}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+317 & 5 & 7082288 & 589328
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 124 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 124 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 321}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+321 & 3 & 7038797 & 628583
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 444 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 444 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 324}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+324 & 31 & 7100306 & 731717
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 173 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 173 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsubsection{Fire 325}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Hectare   & CenterX   & CenterY   \\ \midrule
+325 & 0 & 6905240 & 428097
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & 50 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & 50 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}

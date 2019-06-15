@@ -1,0 +1,35 @@
+\newpage
+\subsubsection{Fire !!id}
+
+\begin{table}[h!]
+\begin{tabular}{@{}lllll@{}}
+\toprule
+id   & Name   & Hectare   & CenterX   & CenterY   \\ \midrule
+!!id & !!name & !!hectare & !!centerX & !!centerY
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingX & Walk(m) \\ \midrule
+1     & !!burntX1 & !!burntY1 & !!burntParkX1 & !!burntParkX1 & !!Walk1 \\
+2     & !!burntX2 & !!burntY2 & !!burntParkX2 & !!burntParkX2 & !!Walk2 \\
+3     & !!burntX3 & !!burntY3 & !!burntParkX3 & !!burntParkY3 & !!Walk3 \\
+4     & !!burntX4 & !!burntY4 & !!burntParkX4 & !!burntParkY4 & !!Walk4 \\
+5     & !!burntX5 & !!burntY5 & !!burntParkX5 & !!burntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}[h!]
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Patch & X         & Y         & ParkingX & ParkingY & Walk(m) \\ \midrule
+1     & !!unburntX1 & !!unburntY1 & !!unburntParkX1 & !!unburntParkX1 & !!Walk1 \\
+2     & !!unburntX2 & !!unburntY2 & !!unburntParkX2 & !!unburntParkX2 & !!Walk2 \\
+3     & !!unburntX3 & !!unburntY3 & !!unburntParkX3 & !!unburntParkY3 & !!Walk3 \\
+4     & !!unburntX4 & !!unburntY4 & !!unburntParkX4 & !!unburntParkY4 & !!Walk4 \\
+5     & !!unburntX5 & !!unburntY5 & !!unburntParkX5 & !!unburntParkY5 & !!Walk5 \\ \bottomrule
+\end{tabular}
+\end{table}

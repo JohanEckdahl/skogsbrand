@@ -21,7 +21,7 @@ class SQLiteDB(Database):
     def connect(self,db_name): return sqlite3.connect(db_name)
     
     def read(self, sql): return pd.read_sql_query(sql, self.connection,
-                                                  index_col="id")
+                                                  )#index_col="id")
     
     def insert(self, table_name, dataframe):
         dataframe.to_sql(table_name, self.connection,
@@ -64,9 +64,9 @@ class Haversine:
         self.feet=self.miles*5280               # output distance in feet
 
 def plot(df,lines):
-    x = df["CenterY"]/10000
-    y = df["CenterX"]/10000
-    s = df["GISHektar"]*2
+    x = df["centery"]/10000
+    y = df["centerx"]/10000
+    s = df["gishektar"]*2
     s = 2
     print("Total fires: {}".format(len(df.index)))
     #display(df.head())
@@ -91,9 +91,9 @@ def sites_per_zone(df, lines):
     for zone in range(5):
         zone += 1
         df2 = df
-        df2 = df2[df2.quality >= 2]
-        df2 = df2[df2.CenterX < lines[-1+zone]*10000]
-        df2 = df2[df2.CenterX > lines[0+zone]*10000]
+        df2 = df2[df2.johan_quality >= 2]
+        df2 = df2[df2.centerx < lines[-1+zone]*10000]
+        df2 = df2[df2.centerx > lines[0+zone]*10000]
         count.append(len(df2.index))
     names = ['1','2','3','4','5']
     plt.figure(figsize = (4,4))
@@ -102,9 +102,9 @@ def sites_per_zone(df, lines):
     
 
 def hectare_per_zone(df):
-    df = df[df.quality >= 2]
-    df = df.sort_values("CenterX", axis =0)
-    df.plot.barh(x='CenterX', y='GISHektar', xlim = (0,150))
+    df = df[df.johan_quality >= 2]
+    df = df.sort_values("centerx", axis =0)
+    df.plot.barh(x='centerx', y='gishektar', xlim = (0,150))
 
 
 def calculate_walk(name):
